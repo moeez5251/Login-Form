@@ -12,6 +12,15 @@ body{
     top: 20%;
     left: 50%;
 }
+.form h1{ 
+    display: inline-block;
+    font-family: "Fredoka", sans-serif; 
+    font-size: 35px;
+    border-bottom: 5px solid purple;
+    margin-bottom: 10px;
+    padding: 10px 0px;
+    color: white;
+}
 .box{
     
     padding: 2px 0px;
